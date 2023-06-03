@@ -9,7 +9,7 @@
 #### • Social-Egineering Attacks
 #### • Vetor de ataque: Web Site Attack Vectors
 #### • Método de ataque: Credential Hervester Attack Method
-#### • Método de ataque: Sire Cloner
+#### • Método de ataque: Site Cloner
 #### • Obtendo o endereço da máquina: ifconfig
 #### • URL para clone: https://wwww.facebook.com
 
