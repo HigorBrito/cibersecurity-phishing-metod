@@ -1,4 +1,4 @@
-# Phishing Tool for Facebook Password Captures
+# Phishing Tool for Facebook Password Captures 2024.06 Release
 
 | Tools                                  | Links                                             |
 |----------------------------------------|---------------------------------------------------|
